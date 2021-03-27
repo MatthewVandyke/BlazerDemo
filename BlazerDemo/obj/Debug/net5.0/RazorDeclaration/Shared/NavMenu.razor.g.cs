@@ -90,7 +90,7 @@ using BlazerDemo.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\snake\RiderProjects\BlazerDemo\BlazerDemo\Shared\NavMenu.razor"
+#line 33 "C:\Users\snake\RiderProjects\BlazerDemo\BlazerDemo\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
